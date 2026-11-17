@@ -1,0 +1,10 @@
+{
+  "name": "G37 Garage \u2014 Skate Shop \u00d7 Motorsport",
+  "short_name": "G37 Garage",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171719",
+  "theme_color": "#f04438",
+  "description": "Maintenance and build planner for a 2008 Infiniti G37 Sport Coupe",
+  "icons": []
+}
